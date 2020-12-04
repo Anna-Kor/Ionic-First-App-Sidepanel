@@ -1,0 +1,7 @@
+{
+  "name": "Ksiazki",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
